@@ -100,10 +100,10 @@ label {
     --shadow-color: rgb(0 0 0 / 3%);
     --box-shadow: rgb(0 0 0 / 41%);
     --iframe-filter: grayscale(0%);
-    --banner-1: url(../images/banner1.png) no-repeat center;
-    --banner-2: url(../images/banner2.png) no-repeat center;
-    --banner-3: url(../images/banner3.png) no-repeat center;
-    --banner-4: url(../images/banner4.png) no-repeat center;
+    --banner-1: url(images/banner1.png) no-repeat center;
+    --banner-2: url(images/banner2.png) no-repeat center;
+    --banner-3: url(images/banner3.png) no-repeat center;
+    --banner-4: url(images/banner4.png) no-repeat center;
 }
 
 [data-theme="dark"] {
@@ -128,10 +128,10 @@ label {
     --shadow-color: rgb(23 19 19);
     --box-shadow: rgb(13 7 7);
     --iframe-filter: grayscale(100%);
-    --banner-1: url(../images/banner1-dark.png) no-repeat center;
-    --banner-2: url(../images/banner2-dark.png) no-repeat center;
-    --banner-3: url(../images/banner3-dark.png) no-repeat center;
-    --banner-4: url(../images/banner4-dark.png) no-repeat center;
+    --banner-1: url(images/banner1-dark.png) no-repeat center;
+    --banner-2: url(images/banner2-dark.png) no-repeat center;
+    --banner-3: url(images/banner3-dark.png) no-repeat center;
+    --banner-4: url(images/banner4-dark.png) no-repeat center;
 }
 
 /*-- top-header --*/
@@ -915,7 +915,7 @@ h3.tittle-w3l {
     padding: .5em 2.5em .5em 1em;
     border: 1px solid #fe9126;
     margin: .35em 0 0;
-    background: url(../images/cart.png) no-repeat 116px 9px;
+    background: url(images/cart.png) no-repeat 116px 9px;
 }
 
 #PPminicarts form {
@@ -1255,7 +1255,7 @@ h3.tittle-w3l {
 }
 
 .search-hotel form input[type="submit"] {
-    background: url(../images/search.html) no-repeat 13px 11px #0879c9;
+    background: url(images/search.html) no-repeat 13px 11px #0879c9;
     width: 44px;
     height: 39px;
     border: none;
@@ -1469,7 +1469,7 @@ nav.navbar.navbar-expand-lg.navbar-light {
 /*-- middle section --*/
 
 .join-w3l1 {
-    background: url(../images/bg.jpg) no-repeat center fixed;
+    background: url(images/bg.jpg) no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1550,7 +1550,7 @@ button:hover {
     height: 32px;
     border: none;
     text-indent: 100%;
-    background: url(../images/arrow.html) no-repeat 0px 0px;
+    background: url(images/arrow.html) no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -1580,7 +1580,7 @@ button:hover {
     height: 64px;
     border: none;
     text-indent: 100%;
-    background: url("../images/move-up.png") no-repeat 0px 0px;
+    background: url("images/move-up.png") no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -1853,7 +1853,7 @@ h2.footer-top-head-w3l {
     height: 64px;
     border: none;
     text-indent: 100%;
-    background: url("../images/move-up.png") no-repeat 0px 0px;
+    background: url("images/move-up.png") no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -1890,7 +1890,7 @@ h2.footer-top-head-w3l {
 }
 
 .inner-contact-page {
-    background: url(../images/contact.jpg) no-repeat center;
+    background: url(images/contact.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1901,7 +1901,7 @@ h2.footer-top-head-w3l {
 }
 
 .inner-about-page {
-    background: url(../images/about.jpg) no-repeat top;
+    background: url(images/about.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1912,7 +1912,7 @@ h2.footer-top-head-w3l {
 }
 
 .inner-checkout-page {
-    background: url(../images/checkout.jpg) no-repeat center;
+    background: url(images/checkout.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1923,7 +1923,7 @@ h2.footer-top-head-w3l {
 }
 
 .inner-single-page {
-    background: url(../images/single.html) no-repeat center;
+    background: url(images/single.html) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -2184,7 +2184,7 @@ td.invert-image a img {
 .close1,
 .close2,
 .close3 {
-    background: url('../images/close_1.png') no-repeat 0px 0px #fff;
+    background: url('images/close_1.png') no-repeat 0px 0px #fff;
     cursor: pointer;
     width: 28px;
     height: 28px;
@@ -2601,7 +2601,7 @@ h3.title-style-2 span {
 
 /* clients section */
 .w3l-cutomer {
-    background: url(../images/bg1.jpg) no-repeat center fixed;
+    background: url(images/bg1.jpg) no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
